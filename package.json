@@ -3,7 +3,7 @@
   "private": true,
   "description": "Portfolio Template For Awesome Peoples",
   "version": "0.1.0",
-  "homepage": "https://www.itsnevo.com/",
+  "homepage": "https://n3vo.github.io/TempWeb/",
   "author": "Chetan Verma <hello@chetanverma.com>",
   "dependencies": {
     "gatsby": "^2.26.1",
