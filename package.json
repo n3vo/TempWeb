@@ -1,10 +1,10 @@
 {
   "name": "react-portfolio-template",
   "private": true,
-  "description": "Portfolio Template For Awesome Peoples",
+  "description": "Hey! Its Nevo 👋",
   "version": "0.1.0",
-  "homepage": "https://n3vo.github.io/TempWeb/",
-  "author": "Chetan Verma <hello@chetanverma.com>",
+  "homepage": "https://www.itsnevo.com/",
+  "author": "Nevo Riemer <me@itsnevo.com>",
   "dependencies": {
     "gatsby": "^2.26.1",
     "gatsby-image": "^2.5.0",
